@@ -62,7 +62,7 @@ Clone o repositório e instale as dependências:
 
 ## 📊 Executar o app em Streamlit
 
-```streamlit run app.py```
+```streamlit run App.py```
 
    - Esse comando irá abrir automaticamente o aplicativo no navegador, com visualizações e previsões de preço de combustível por estado.
 
